@@ -1,2 +1,0 @@
-finder-toolbar-icons-template
-=============================
